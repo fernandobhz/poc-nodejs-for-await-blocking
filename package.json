@@ -1,0 +1,12 @@
+{
+  "name": "poc-nodejs-for-await-blocking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fernandobhz/poc-nodejs-for-await-blocking.git",
+  "author": "Fernando Reis Guimaraes <fernando.g.reis@accenture.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.28"
+  }
+}
